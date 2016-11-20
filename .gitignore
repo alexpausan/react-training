@@ -13,3 +13,9 @@ build
 .DS_Store
 .env
 npm-debug.log
+
+# development tools
+**.vscode**
+**.idea**
+**sublime-project**
+**sublime-workspace**
